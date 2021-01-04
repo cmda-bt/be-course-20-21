@@ -142,6 +142,8 @@ design bachelor focused on interactive digital products and services.  CMD is
 part of the [Faculty of Digital Media and Creative Industries][faculty] at the
 [Amsterdam University of Applied Sciences][university].
 
+Our curriculum and course material are publicly available on the Block Tech (github.com/cmda-bt) GitHub organization. We follow the global trend to make teaching materials accessible to everyone inspired by the [Open Education Global][oec].
+
 ## Conduct
 
 This course has a [Code of Conduct][coc].  Anyone interacting with this repository, organisation, or community is bound by it. Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
@@ -150,7 +152,7 @@ Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
 
 ## Statements
 
-We are dedicated to provide you with a learning environment that is _rigorous, respectful and supportive_ so you can engage in the free exchange of ideas and commit yourself fully to the study of your discipline. To that end we are committed to enforce important AUAS policies. You can find our policies and statements (e.g. accessibility, plagiarism) in the `docs` folder.
+We are dedicated to provide you with a learning environment that is _rigorous, respectful and supportive_ so you can engage in the free exchange of ideas and commit yourself fully to the study of your discipline. To that end we are committed to enforce important AUAS policies. You can find our policies and statements (e.g. accessibility, health, plagiarism) in the `docs` folder.
 
 ## License
 
@@ -190,6 +192,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [faq]: https://dlo.mijnhva.nl/d2l/lms/faq/view_faq.d2l?ou=32096
 [class]: https://rooster.hva.nl/
 [course]: https://studiegids.hva.nl/#/cmd-vt/1/010624
+[oec]: https://www.oeglobal.org
 
 [gs]: getting-started.md
 
