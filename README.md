@@ -1,4 +1,4 @@
- # ![Backend - Course 2019-2020][banner]
+ # ![Backend - Course 2020-2021][banner]
 
 ## Table of Content
 
@@ -156,7 +156,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 [MIT][] © [Danny de Vries][dangit], docs and images are [CC-BY-4.0][].
 
-[banner]: https://cmda-bt.github.io/be-course-19-20/assets/banner.svg
+[banner]: https://cmda-bt.github.io/be-course-20-21/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
