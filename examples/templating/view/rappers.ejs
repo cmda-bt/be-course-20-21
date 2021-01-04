@@ -1,0 +1,8 @@
+<h1>rappers</h1>
+<% for (var index = 0; index < data.length; index++) { %>
+  <h2>
+    <a href="/<%= data[index].id %>"><%= data[index].name%></a>
+  </h2>
+  <p><%= data[index].biography %></p>
+  <p><%= data[index].instagram %></p>
+<% } %>
