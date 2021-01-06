@@ -74,7 +74,11 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 [🎦 _Watch a video_ on how to ask questions][videoask]
 
-> Wow, you did it! Virtual high five! 🖐 
+### GitHub
+
+GitHub is a social platform so give this repository `be-course-20-21` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
+
+**_Wow, you did it! You finished the getting started guide for back-end. Virtual high five! 🖐_**
 
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
@@ -88,3 +92,5 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 [videonode]: https://www.youtube.com/watch?v=EQWyWQhphGw
 [videoask]: https://www.youtube.com/watch?v=0CARthL2RPo
+[star]: https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/saving-repositories-with-stars
+[follow]: https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/following-people
