@@ -27,6 +27,8 @@ if (!a1 && !a2) {
 }
 ```
 
+> You can find your feedback and final calculated grade in Brightspace under `administration > grades`.
+
 ## Goals
 
 The main goals in this course:
@@ -49,9 +51,6 @@ This is an *oral test* where you individually present the **feature you created*
 This is an *oral test* where you **present your prototype with your team**. You will show how you contributed to the project and explain if you reached your own goals you've set at the beginning of the project.
 
 → [Rubric of assessment 2][a2]
-
-
-> You can find your feedback and final calculated grade in Brightspace under `administration > grades`.
 
 ## Plagiarism
 
