@@ -127,6 +127,7 @@ When you create your Cluster in Atlas you might need to [Whitelist your IP](http
 
 **Additional resources**
 
+- [Get Started with Atlas](https://docs.atlas.mongodb.com/getting-started)
 - [Hiding API Keys with Environment Variables (dotenv)](env)
 
 ## Hand-in
