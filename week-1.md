@@ -25,6 +25,7 @@ Before you start you'll probably want to read a bit about **Node,** the **JavaSc
 * [_Introduction to Node.js_][intro-node]
 * [_Differences between Node.js and the Browser_][node-browser]
 * [_An introduction to the npm package manger_][node-npm]
+* [_Frontend vs Backend_][fe-be]
 
 [🎦 _Watch a video_ about the browser versus Node.js.][videonode]  
 [🎦 _Watch a video_ about NPM.][videonpm]
@@ -82,7 +83,7 @@ Commit your progess in your repository on GitHub under your username in your own
 2. **Create an issue:**  
 Mark this assignment as complete by opening an issue on our [GitHub issue tracker][issues]. Fill in the issue template of `week-1.md` with the correct information. Include what progress you made in the description of the issue.
 
-1. **Feedback:**  
+3. **Feedback:**  
 Let us know what you thought of the homework, what part you spend a lot of time on and give us any feedback. Your assignment will be reviewed by teachers and student assistants, so expect people to read it and be ready for tips and tops!
 
 [quote-author]: https://twitter.com/BrendanEich
@@ -101,8 +102,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [intro-npm]: https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
 [global]: https://nodejs.dev/npm-global-or-local-packages
 [issues]: https://github.com/cmda-bt/be-course-20-21/issues/new/choose
-[visual]: https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf
-[syntax]: https://syntax.fm/show/188/the-fundamentals-server-side
+[fe-be]: https://zellwk.com/blog/frontend-vs-backend/
 
 [videonode]: https://www.youtube.com/watch?v=ZpiHUOM_Y-0
 [videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
