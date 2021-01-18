@@ -1,11 +1,11 @@
 ---
-name: Week 4
-about: Store user input in a MongoDB database instead of the server!
-title: Week 4
-labels: 'week-4, storage'
+name: Topic
+about: Let us know what topic you picked and explain what you are going to work on during the team assessment
+title: Topic
+labels: 'week-6, topic'
 ---
 
-# Storage
+# Topic
 
 ## Name
 <!-- Add your name here-->

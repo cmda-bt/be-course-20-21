@@ -6,7 +6,7 @@ labels: 'week-3, input'
 
 ---
 
-# Package
+# Input
 
 ## Name
 <!-- Add your name here-->

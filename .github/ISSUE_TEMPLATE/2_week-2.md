@@ -6,7 +6,7 @@ labels: 'week-2, templating'
 
 ---
 
-# Package
+# Templating
 
 ## Name
 <!-- Add your name here-->
