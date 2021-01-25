@@ -19,8 +19,8 @@
 *  [Hand in](#hand-in)
 
 ## Slides
-* [Lecture-2][lec2]
-* [Lab-2][lab2]
+* [Lab-2a][lab2a]
+* [Lab-2b][lab2b]
 
 ## Theory
 Before you start you'll probably want to read a bit about **express,** **routing,** and **templating**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
@@ -133,3 +133,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [videorequest]: https://www.youtube.com/watch?v=IS3HRyUXJX0
 [videoexpress]: https://www.youtube.com/watch?v=SRHQ3FM39Qg
+
+[lab2a]: /slides/be_20-21_lab-2a.pdf
+[lab2b]: /slides/be_20-21_lab-2b.pdf

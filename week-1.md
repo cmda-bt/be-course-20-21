@@ -107,3 +107,5 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [videonode]: https://www.youtube.com/watch?v=ZpiHUOM_Y-0
 [videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
 [videopackage]: https://www.youtube.com/watch?v=shSB9BbK1gU
+
+[lab1]: /slides/be_20-21_lab-1.pdf
