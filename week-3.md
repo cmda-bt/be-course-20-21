@@ -17,8 +17,8 @@
 *  [Hand in](#hand-in)
 
 ## Slides
-* [Lecture-3][lec3]
-* [Lab-3][lab3]
+* [Lab-3a][lab3a]
+* [Lab-3b][lab3b]
 
 ## Theory
 
@@ -160,3 +160,6 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [multer]: https://www.npmjs.com/package/multer#readme
 [videorequest]: https://www.youtube.com/watch?v=IS3HRyUXJX0
 [env]: https://www.youtube.com/watch?v=17UVejOw3zA
+
+[lab3a]: /slides/be_20-21_lab-3a.pdf
+[lab3b]: /slides/be_20-21_lab-3b.pdf

@@ -17,7 +17,8 @@
 *  [Hand in](#hand-in)
 
 ## Slides
-* Lab-6
+
+_Coming Soon_
 
 ## Theory
 

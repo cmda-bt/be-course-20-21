@@ -17,7 +17,8 @@
 *  [Hand in](#hand-in)
 
 ## Slides
-* Lab-7
+
+_Coming Soon_
 
 ## Assignments
 
