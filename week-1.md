@@ -63,6 +63,8 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 
 4. Create some [`run scripts`](https://docs.npmjs.com/misc/scripts) in your `package.json` to **start**, **serve** or **build** your application.
 
+5. Create a `.gitignore`, and add files and folders you don't want to push to your GitHub repository. [This][github-node-gitignore] is the standard GitHub gitignore for Node.js applications. Keep your gitignore concise. Only put files and folders in there that need to be ignored.
+
 **Ask yourself upon completion:**
 * How does  `require` work under the hood?
 * What's the difference between `dependencies` and `devDependencies`?
@@ -103,6 +105,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [global]: https://nodejs.dev/npm-global-or-local-packages
 [issues]: https://github.com/cmda-bt/be-course-20-21/issues/new/choose
 [fe-be]: https://zellwk.com/blog/frontend-vs-backend/
+[github-node-gitignore]: https://github.com/github/gitignore/blob/master/Node.gitignore
 
 [videonode]: https://www.youtube.com/watch?v=ZpiHUOM_Y-0
 [videonpm]: https://www.youtube.com/watch?v=X8D5Ijpp824
