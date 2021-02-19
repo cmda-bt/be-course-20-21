@@ -20,22 +20,22 @@
 
 ## Slides
 
-- [Lecture-4][lec4]
-- [Lab-4][lab4]
+- [Lecture-4][lab4a]
+- [Lab-4][lab4b]
 
 ## Theory
 
 Before you start you'll probably want to read a bit about **Databases,** **JSON,** and **MongoDB**. We'll cover this in the lecture but make sure you fully understand these concept, the resources below can help.
 
-* [_Introduction to MongoDB_](intro-mongo)
-* [_Modern databases & their differences_](intro-database)
-* [_Introduction to documents_](intro-documents)
+* [_Introduction to MongoDB_][intro-mongo]
+* [_Modern databases & their differences_][intro-database]
+* [_Introduction to documents_][intro-documents]
 
 ## Playground
 
 You can do these exercises before you start working on the assignments to get comfortable with the topics covered in class. The below are interactive self guided lesson modules from [freeCodeCamp](https://www.freecodecamp.org). If you feel a bit more adventurous you can try the [NodeSchool workshoppers](https://nodeschool.io).
 
-- [freeCodeCamp MongoDB and Mongoose)](https://www.freecodecamp.org/learn/)
+- [freeCodeCamp MongoDB and Mongoose](https://www.freecodecamp.org/learn/)
 - [learnouMongo workshopper (exercise)](https://github.com/evanlucas/learnyoumongo)
 
 ## Assignments
@@ -57,8 +57,6 @@ You can do these exercises before you start working on the assignments to get co
 A database will permanently store the data for you. A database is for persistence, store information apart from the server. Text is the easiest thing to store, media such as images, blobs or passwords require additional effort.
 
 > Remember that in the previous assignment you've set-up a database connection with Atlas. Now we are going to connect the server (node.js) to the database.
-
-→ The best way to get started is to have a look at the [MongoDB Server Example in this repository](/examples/mongodb-server). Which outlines:
 
 ```
 1. Connecting to the URI of your database
