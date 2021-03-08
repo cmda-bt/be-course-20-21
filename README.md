@@ -179,7 +179,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
 [synopsis]: #synopsis
-[grading]: grading.md
+[grading]: /grading
 [bachelor]: https://www.cmd-amsterdam.nl/english/
 [faculty]: https://www.amsterdamuas.com/faculty/fdmci/faculty-of-digital-media-and-creative-industries.html
 [university]: https://www.amsterdamuas.com
