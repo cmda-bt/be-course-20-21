@@ -53,7 +53,7 @@ You can do these exercises before you start working on the assignments to get co
 *  **Due**: before week 3
 
 #### Description
-Create a server that handles routes and serves static files in Node.js. Use the [`express`](https://expressjs.com/) web framework. Make sure it does (atleast) the following three things:
+We'll add more features to our server. It should handle routes and serve static files. Make sure it does (atleast) the following three things:
 
 1. **Basic routing:** Have a couple of different `routes` (e.g. `/about` `/login`) that are useful for your matching-application.
 2. **Error handling:** Respond with a `404 Not Found` if you go to a route that doesn't exist.
@@ -62,7 +62,6 @@ Create a server that handles routes and serves static files in Node.js. Use the 
 **Ask yourself upon completion:**
 * How does the `app instance` work? What makes it possible you can do things like `app.get` or `app.listen`?
 * What are the `req` and `res` parameters?
-* The server you just wrote. Where does it `live`?
 
 **Additional resources**
 * [Basic Routing](https://expressjs.com/en/starter/basic-routing.html)
