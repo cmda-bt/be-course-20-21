@@ -35,8 +35,6 @@ You can do these exercises before you start working on the assignments to get co
 
 * [freeCodeCamp - Managing Packages with NPM (exercises)](https://www.freecodecamp.org/learn)
 * [How to NPM (workshopper)](https://github.com/workshopper/how-to-npm)
-* [Learn the basics of Node (workshopper)](https://github.com/workshopper/learnyounode)
-
 
 ## Assignments
 
@@ -63,7 +61,9 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 
 4. Create some [`run scripts`](https://docs.npmjs.com/misc/scripts) in your `package.json` to **start**, **serve** or **build** your application.
 
-5. Create a `.gitignore`, and add files and folders you don't want to push to your GitHub repository. [This][github-node-gitignore] is the standard GitHub gitignore for Node.js applications. Keep your gitignore concise. Only put files and folders in there that need to be ignored.
+5. Some files and folders NPM create don't have to be on GitHub (e.g. node_modules). Create a [`.gitignore`](https://docs.github.com/en/github/getting-started-with-github/ignoring-files), and add files and folders you don't want to push to your GitHub repository. [This][github-node-gitignore] is the standard GitHub gitignore for Node.js applications. Keep your gitignore concise, only put files and folders in there that need to be ignored.
+
+> 💡 Configuration files like dotfiles, package.json or server.js are created in the [`root`](https://en.wikipedia.org/wiki/Root_directory) of your repository. There is no need to put them in subfolders.
 
 **Ask yourself upon completion:**
 * How does  `require` work under the hood?
