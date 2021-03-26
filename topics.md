@@ -44,57 +44,49 @@ If you're not sure what to work on. Here are topics _we as teachers came up with
 
 ### Security
 
-| #7 - Use helmet to set HTTP Headers  |
+| #7 - Use a combination of _helmet_ to set HTTP Headers, rate-limiter to protect against brute-force attacks and _password hashing_ to secure your matching application.  |
 |---|
-| Helmet can help protect your app from some well-known web vulnerabilities by setting HTTP headers appropriately. |
-
-| #8 - Use rate-limiter to protect against brute-force attacks  |
-|---|
-| You can implement rate-limiting on your forms to prevent brute forcing. For example you can limit how many times a user can try to login in a given time window. |
-
-| #9 - Hash the passwords you store in the database |
-|---|
-| Transform the text passwords into a string of fixed length using a hash function (similar to encryption). It is a common practice to store passwords as Hash Value in the database and not in Plain Text. |
+| Helmet can help protect your app from some well-known web vulnerabilities by setting HTTP headers appropriately. Rate-limiting prevents brute forcing. For example you can limit how many times a user can try to login in a given time window. Password hashing transform the text passwords into a string of fixed length using a hash function (similar to encryption). It is a common practice to store passwords as Hash Value in the database and not in Plain Text|
 
 ### API's
 
-| #10 - Fetch a _public_ external API from the server and render that data |
+| #8 - Fetch a _public_ external API from the server and render that data |
 |---|
 | You can find a public API related to the concept of your application and fetch() data. For example loading image data to show game covers, profile pictures etc. |
 
-| #11 - Fetch an external API from the server that _requires OAUTH_ and render that data |
+| #9 - Fetch an external API from the server that _requires OAUTH_ and render that data |
 |---|
 | This is practically the same topic as the above but instead of calling a 'public' API you can call a API that has some form of authentication. So the fetching of the data will be more complex but since the user is logged into you can ask for more specific data.  |
 
 ### Testing
 
-| #12 - Implement Continous Integration (deployment) |
+| #10 - Implement Continous Integration (deployment) |
 |---|
 | As your application becomes 'larger' it's common to add an extra build step to your application usually to automatically build and testing code changes, providing immediate feedback on the success of the change. Travis CI can be a good starting point.  |
 
-| #13 - Implement Unit Testing |
+| #11 - Implement Unit Testing |
 |---|
 | As your application becomes 'larger' it's common to add an extra testing step. Basically unit testing is checking that a function by itself, separate from everything around, should do what it is intended to do. Mocha (a JavaScript test framework) can be a good starting point. |
 
 ### Database
 
-| #14 - Use Mongoose to object model your database |
+| #12 - Use Mongoose to object model your database |
 |---|
 | Mongoose makes it easier to interface with your databse. By offering additional interface features like MongoDB validation, schema's and constructing better documents. It's an abstraction layer on top of MongoDB.|
 
-| #15 - Implement user authentication with passport.js |
+| #13 - Implement user authentication with passport.js |
 |---|
 | Passport is authentication middleware for Node. It offers more detailed support for authentication using a username and password but also external login methods like Facebook, Twitter. |
 
-| #16 - Implement real-time data with socket.io |
+| #14 - Implement real-time data with socket.io |
 |---|
 | Socket.IO enables real-time, bidirectional and event-based communication. Very useful if you want to enable users to communicate (chat) with eachother. |
 
-| #17 - Implement an Headless CMS |
+| #15 - Implement an Headless CMS |
 |---|
 | Let users dynamically add data to your application by implementing a CMS. Headless CMSes (like Strapi.io, Sanity etc.) are good choices for node.js applications. |
 
-| #18 -  Try to implement some sort of 'relational database' in MongDB |
+| #16 -  Try to implement some sort of 'relational database' in MongDB |
 |---|
 | MongoDB is document based by nature. Instead of being relational like MySQL. You can try to do some data moddeling by restructuring your database for allowing basic relationships or references. Like embedded relationships or referenced relationships. |
 
