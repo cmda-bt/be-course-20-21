@@ -12,7 +12,7 @@ labels: 'week-2, templating'
 <!-- Add your name here-->
 
 ## Class
-<!-- Add your class here -->
+<!-- Add your class (tech-x) here -->
 
 ## Repo link
 <!-- Include a link to your repository -->
