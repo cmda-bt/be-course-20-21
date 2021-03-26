@@ -75,7 +75,31 @@ or [`skin-tone`](https://github.com/sindresorhus/skin-tone/blob/master/package.j
 * [Introduction to NPM Scripts][intro-npm]
 * [Npm global or local packages][global]
 
-[🎦 _Watch a live demo_ about NPM and packages.][videopackage]  
+[🎦 _Watch a live demo_ about NPM and packages.][videopackage]
+
+### Serve
+
+![Hello World Server banner](assets/banners/serve.jpg)
+> In this assignment we'll create a basic server that responds with _hello world_.
+
+#### Synopsis
+
+*  **Time**: 2:00h
+*  **Goals**: subgoal 3, subgoal 4
+*  **Due**: before week 2
+
+#### Assignment
+We'll install Express and create a very basic server that responds to our requests. 
+
+1. Install `express` and require it in `server.js`
+2. Use _http_ methods to have you server respond with _hello world_ when you open `localhost`
+
+**Ask yourself upon completion:**
+* The server you just wrote? Where does it live? What happens if you turn off your computer?
+* What's `localhost` and how does it defer from a full domain?
+
+**Additional resources**
+* [Hello World](https://expressjs.com/en/starter/hello-world.html)
 
 ## Hand-in
 
