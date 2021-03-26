@@ -105,6 +105,8 @@ DBaaS stands for _database as a service_. Instead of having the database stored 
 
 Setting-up a database connection isn't 'difficult' but there are lots of small steps involved. **So read the guides carefully and follow each step.** If you make a small mistake somewhere then all other steps won't work.
 
+> 💡There isn't realy a 'good' way to check if the database connection is working. We think the best way to check is to actually fill your database with dummy data and try a `find` and `console.log` that to the terminal. If you get a javascript like object in the terminal that's the same as the data you put in the database it has works!
+
 > **Ask questions in the #back-end channel** if you are stuck! We try to link to relevant resources for common 'start-up' issues but if you encounter a specific problem don't try to fix it yourself but ask for help.
 
 → The best resource we found to set-up your database is the official ['connect to MongoDB' drive guide](https://docs.mongodb.com/guides/server/drivers/). Which roughly outline the following steps:
