@@ -33,6 +33,8 @@ You can check if `nvm` correctly installed by typing:
 nvm --version # Should print a version number
 ```
 
+> There is a chance you get a `nvm command not found` error message. That means that there was a problem with installing NVM. In some cases you'll have to [manually load NVM in your profile](https://stackoverflow.com/questions/16904658/node-version-manager-install-nvm-command-not-found).
+
 Close and re-open your terminal and now run the following:
 
 ```sh
