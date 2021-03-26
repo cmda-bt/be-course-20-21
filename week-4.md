@@ -79,13 +79,14 @@ Then start storing the user input for your matching application in the database!
    2. Use `Insert` to add data to collections
    3. Use `Update` to change data from the collection
 
+> 💡In lots of online tutorials and video's you'll see people use _mongoose_ to connect to their database and perform crud operations. **We don't think that's the best way to get started** so we highly suggest you don't use mongoose when you are starting out. It's too much ✨ magic and you'll also need to learn about things like _schema's_. Only if you think you actually need it and can explain why it's useful for your project you'll want to consider it for your project.
+
 > Remember that to pass A1 (assessment) a user needs to be able to **insert** or  **update** the data in the database trough the interface. A **find** is not enough.
 
 **Tips**
 
 - **Start small**. Don't try to store everything into the database at once.
 - You can use the [`mongodb`](https://www.npmjs.com/package/mongodb) package inside node to interface with your database.
-- Additionally you can use [`mongoose`](https://www.npmjs.com/package/mongoose) it makes it a bit easier to model and manage your database.
 - You can use a [MongoDB GUI](https://www.mongodb.com/products/compass) to see and manipulate your data with a handy User Inerface.
 
 ## Hand-in
