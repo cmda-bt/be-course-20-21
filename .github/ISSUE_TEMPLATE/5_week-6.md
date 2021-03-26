@@ -11,7 +11,7 @@ labels: 'week-6, topic'
 <!-- Add your name here-->
 
 ## Class
-<!-- Add your class here -->
+<!-- Add your class (tech-x) here -->
 
 ## Team Repo link
 <!-- Include a link to your repository -->
