@@ -83,18 +83,22 @@ Create a server that handles routes and serves static files in Node.js. Use the 
 
 We are slowly going to build the interface and components for your matching application. You already have a server up an running, now it's time to actually send dynamic HTML to the client using a templating engine.
 
-1. Research different templating engines and read there documentation such as [`pug`][pug], [`ejs`][ejs] or [`handlebars`][handlebars]. Document your research in your wiki. Pick one and install it in your project. 
+1. Research different [templating engines](https://expressjs.com/en/resources/template-engines.html) and read there documentation such as [`pug`][pug], [`ejs`][ejs]. Document your research in your wiki. Pick one, explain why you chose it, and install it in your project. 
+
+> 💡 Some templating engines can be a little bit hard to set-up (looking at you 👀 handlebars). So carefully read their documentation and try out a couple of different ones. If you can't get yours working, look for students who are working with the same templating engine.
    
 2. Then, **create views and try to render a page** using the templating engine. Start with 'simple' HTML pages and make sure you get different .html for each route.
 
 3. Then, **render dynamic data** using your templating engine. So instead of you writing the .html insert some dynamic data. For example; you can store and array or object on the server and _inject_ data into the view. Later we'll look at how to insert data from a database.
   
-4. **Explore the features** of your templating engine. Many templating engines have:
-   * `includes`; insert contents of files into another.
-   * `conditionals`; if statements to render html conditionally
-   * `mixins`; create small reusable blocks of html
+4. **Use the features** of your templating engine. Try out atleast the following:
+   * Use[`includes`](https://ejs.co/#includes); to insert contents of files into another.
+   * Use [`conditionals`](https://pugjs.org/language/conditionals.html); if statements to render html conditionally
+   * Use [`mixins`](https://pugjs.org/language/mixins.html); create small reusable blocks of html
 
-5. **Start building out your components** for your matching application feature. You can create different partials and lay-outs (includes) for components of your page e.g. header, footer or a form.
+5. **Start building out your components** for your matching application feature. You can create different partials and [lay-outs](https://pugjs.org/language/inheritance.html) (includes) for components of your page e.g. header, footer or a form.
+
+> 💡 It's very common to create a consistent naming convention and folder structure for your components. Most people base it on the [Atomic Design method](https://atomicdesign.bradfrost.com/chapter-2/) by Brad Frost. [Here's an example](https://github.com/iSirThijs/Player2) with different partials and lay-out components.
 
 **Ask yourself upon completion:**
 * How does express combine the data from the server with the templating engine?
