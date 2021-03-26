@@ -80,6 +80,8 @@
 * [Peer Review](www.cmdmethods.nl/cards/showroom/peer-review)
 * [Product Quality Review](http://www.cmdmethods.nl/cards/showroom/quality-review)
 
+> 💡 Some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
+
 [safari]: http://rps.hva.nl:2048/login?url=http://proquest.safaribooksonline.com/?uicode=hva
 [html-css]: https://learn.shayhowe.com/html-css/
 [banner-resources]: https://cmda-bt.github.io/be-course-20-21/assets/banner-resources.svg
